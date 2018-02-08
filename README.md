@@ -1,1 +1,1 @@
-# openstack-ansible
+# openstack
